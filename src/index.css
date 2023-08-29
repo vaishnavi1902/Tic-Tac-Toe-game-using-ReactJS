@@ -83,3 +83,11 @@ body{
   border-radius: 10px;
   margin-bottom: 10px;
 }
+.heading{
+  color: white;
+  font-size: 20px;
+  margin: 10px;
+}
+.heading a{
+  color: white;
+}

@@ -60,6 +60,7 @@ export default function Game() {
        
 
         <div className='game-board'>
+            <h6 className='heading'>Tic Tac Toe Game by <a target='_blank' href="https://www.linkedin.com/in/vaishnavi-kumbhakarna-838a13221/">Vaishnavi</a> &#10084;&#65039;</h6>
             <Board onClick={(i) => handleClick(i)} squares={current.squares}/>
         </div>
         <div className='game-info'>
